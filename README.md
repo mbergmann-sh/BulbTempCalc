@@ -1,5 +1,5 @@
 # BulbTempCalc
-BulbTempCalc is a tool for calculating bulb temperatures, written in Qt5/C++
+BulbTempCalc is a tool for calculating wet bulb temperatures, written in Qt5/C++
 You will need a decent C++ compiler and at least a working installation of Qt v5.12
 in order to compile the main program.
 
