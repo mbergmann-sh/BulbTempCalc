@@ -1,0 +1,6 @@
+<RCC>
+    <qresource lang="Deutsch" prefix="/Icons"/>
+    <qresource prefix="/">
+        <file>gfx/accessories-calculator-4.ico</file>
+    </qresource>
+</RCC>
